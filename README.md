@@ -1,7 +1,7 @@
 
-- 👋 Hi, I’m @jadi-star (Jadi)
-- 👀 I’m iterested in aprender a programar.
-- 🌱 I’m currently learning  Javascript.
+- 👋 Olá, sou @jadi-star (Jadi)
+- 👀 Estou interessado em  progra
+- 🌱 Atualmente estou aprendendo Javascript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  jadisilva4@gmail.com
 
